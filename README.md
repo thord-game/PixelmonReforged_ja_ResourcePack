@@ -1,0 +1,3 @@
+Pixelmon Reforgedを日本語化するためのリソースパック
+
+zipファイルをダウンロードし、ResourcePacksフォルダに配置すれば日本語化できる
