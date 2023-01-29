@@ -1,3 +1,4 @@
 Pixelmon Reforgedを日本語化するためのリソースパック
 
-zipファイルをダウンロードし、ResourcePacksフォルダに配置すれば日本語化できる
+以下のzipファイルをダウンロードし、ResourcePacksフォルダに配置すれば日本語化できる
+https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/raw/main/PixelmonReforged_ja.zip
