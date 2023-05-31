@@ -9,6 +9,6 @@ https://github.com/thord-game/PixelmonReforged_ja_JP.lang
 
 https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/v9.1.3/PixelmonReforged_ja.zip
 
-※どちらも全てが日本語化されるわけではありません。未翻訳が残ります。
+※全てが日本語化されるわけではありません。未翻訳が残ります。
 
 未翻訳:設定,NPC,TCG
