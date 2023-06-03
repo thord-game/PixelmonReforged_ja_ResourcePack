@@ -7,7 +7,7 @@ https://github.com/thord-game/PixelmonReforged_ja_JP.lang
 
 以下からzipファイルをダウンロードし、ResourcePacksフォルダに配置すれば日本語化できます
 
-https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/v9.1.4/PixelmonReforged_ja.zip
+https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/v9.1.5/PixelmonReforged_ja.zip
 
 ※全てが日本語化されるわけではありません。未翻訳が残ります。
 
