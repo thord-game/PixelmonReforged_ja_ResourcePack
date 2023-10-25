@@ -9,7 +9,7 @@ https://github.com/thord-game/PixelmonReforged_ja_JP.lang
 
 Minecraftのバージョンによってリソースパックに旧バージョン向けと出るのでv9.2.0以降は分けています。
 
-### Minecraft v1.16.5 & Pixelmon Reforged v9.1.7
+### Minecraft v1.16.5 & Pixelmon Reforged v9.1.8
 
 https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/v9.1.7/PixelmonReforged_ja.zip
 
