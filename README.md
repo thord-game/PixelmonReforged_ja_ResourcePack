@@ -36,8 +36,7 @@ Minecraftのバージョンによっては導入できないため、Minecraft�
 
 ### Minecraft v1.16.5 & Pixelmon Reforged v9.1.x
 
-https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/datapack/PixelmonReforged_JP-datapack_v1.16.5
-
+https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/datapack/PixelmonReforged_JP-datapack_v1.16.5.zip
 
 ### Minecraft v1.20.1 & Pixelmon Reforged v9.2.3
 
