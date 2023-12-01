@@ -16,7 +16,7 @@ Minecraftのバージョンによってリソースパックに旧バージョ�
 
 ### Minecraft v1.16.5 & Pixelmon Reforged v9.1.9
 
-https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/v9.1.7/PixelmonReforged_ja.zip
+https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/v9.1.8/PixelmonReforged_ja.zip
 
 
 ### Minecraft v1.20.1 & Pixelmon Reforged v9.2.3
