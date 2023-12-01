@@ -50,3 +50,9 @@ https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download
 ※全てが日本語化されるわけではありません。未翻訳が残ります。
 
 未翻訳:設定,NPC,TCG
+
+
+謝辞：リボンを日本向けに修正するデータはつっちーさんに共有いただきました。
+
+http://tt0.link/pixelmon/
+
