@@ -11746,6 +11746,7 @@
     "pixelmon.effect.fling": "%s は %s を投げつけた!",
     "pixelmon.effect.changetype": "%s は %s タイプに変わった!",
     "pixelmon.effect.skydrop": "%s は %s を上空に連れ去った!",
+  "pixelmon.effect.skydropfreed": "%s はフリーフォールから解放された!",
     "pixelmon.effect.skullbash": "%s は頭を引っ込めた!",
     "pixelmon.effect.mimic": "%s は %s の %s をコピーした!",
     "pixelmon.effect.uproar": "%s が騒いでいる!",
