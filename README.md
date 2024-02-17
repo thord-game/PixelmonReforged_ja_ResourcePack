@@ -47,6 +47,25 @@ https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download
 
 https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/datapack/PixelmonReforged_JP-datapack_v1.20.2.zip
 
+
+## 日本語化データパック(孵化関連データなし)
+
+上のデータパックでは孵化関連の日本語化が含まれています。タマゴ孵化に関する別のデータパック（例えば[EndressBreeding](https://github.com/thord-game/MoreInfo/tree/main/PixelmonReforged/EndressBreeding）をいれる場合には競合するため、こちらのデータパックを使ってください。
+
+### Minecraft v1.16.5 & Pixelmon Reforged v9.1.x
+
+https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/datapack/PixelmonReforged_JP-datapack_NoDaycare_v1.16.5.zip
+
+### Minecraft v1.20.1 & Pixelmon Reforged v9.2.3
+
+https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/datapack/PixelmonReforged_JP-datapack_NoDaycare_v1.20.1.zip
+
+### Minecraft v1.20.2 & Pixelmon Reforged v9.2.6
+
+https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/datapack/PixelmonReforged_JP-datapack_NoDaycare_v1.20.2.zip
+
+
+
 ※全てが日本語化されるわけではありません。未翻訳が残ります。
 
 未翻訳:設定,NPC,TCG
