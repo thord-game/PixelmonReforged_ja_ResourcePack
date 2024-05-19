@@ -24,9 +24,9 @@ https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download
 https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/v9.2.3/PixelmonReforged_ja.zip
 
 
-### Minecraft v1.20.2 & Pixelmon Reforged v9.2.7
+### Minecraft v1.20.2 & Pixelmon Reforged v9.2.8
 
-https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/v9.2.7/PixelmonReforged_ja.zip
+https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/v9.2.8/PixelmonReforged_ja.zip
 
 
 ## 日本語化データパック
@@ -43,7 +43,7 @@ https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download
 https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/datapack/PixelmonReforged_JP-datapack_v1.20.1.zip
 
 
-### Minecraft v1.20.2 & Pixelmon Reforged v9.2.6
+### Minecraft v1.20.2 & Pixelmon Reforged v9.2.8
 
 https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/datapack/PixelmonReforged_JP-datapack_v1.20.2.zip
 
@@ -60,7 +60,7 @@ https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download
 
 https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/datapack/PixelmonReforged_JP-datapack_NoDaycare_v1.20.1.zip
 
-### Minecraft v1.20.2 & Pixelmon Reforged v9.2.6
+### Minecraft v1.20.2 & Pixelmon Reforged v9.2.8
 
 https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/datapack/PixelmonReforged_JP-datapack_NoDaycare_v1.20.2.zip
 
