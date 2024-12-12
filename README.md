@@ -24,9 +24,9 @@ https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download
 https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/v9.2.3/PixelmonReforged_ja.zip
 
 
-### Minecraft v1.20.2 & Pixelmon Reforged v9.2.9
+### Minecraft v1.20.2 & Pixelmon Reforged v9.2.10
 
-https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/v9.2.9/PixelmonReforged_ja.zip
+https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/v9.2.10/PixelmonReforged_ja.zip
 
 
 ## 日本語化データパック
