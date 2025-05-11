@@ -12,7 +12,7 @@ https://github.com/thord-game/PixelmonReforged_ja_JP.lang
 
 ## 日本語化リソースパック
 
-Minecraftのバージョンによってリソースパックに旧バージョン向けと出るのでv9.2.0以降は分けています。
+Minecraftのバージョンによってリソースパックを分けています。
 
 ### Minecraft v1.16.5 & Pixelmon Reforged v9.1.13
 
@@ -27,6 +27,12 @@ https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download
 ### Minecraft v1.20.2 & Pixelmon Reforged v9.2.10
 
 https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/v9.2.10/PixelmonReforged_ja.zip
+
+
+### Minecraft v1.21.1 & Pixelmon Reforged v9.3.0
+
+https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/v9.3.0/PixelmonReforged_ja.zip
+
 
 
 ## 日本語化データパック
@@ -48,6 +54,11 @@ https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download
 https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/datapack/PixelmonReforged_JP-datapack_v1.20.2.zip
 
 
+### Minecraft v1.21.1 & Pixelmon Reforged v9.3.0以降
+
+https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/datapack/PixelmonReforged_JP-datapack_v1.21.1.zip
+
+
 ## 日本語化データパック(孵化関連データなし)
 
 上のデータパックでは孵化関連の日本語化が含まれています。タマゴ孵化に関する別のデータパック（ 例えば[EndressBreeding](https://github.com/thord-game/MoreInfo/tree/main/PixelmonReforged/EndressBreeding) ）をいれる場合には競合するため、こちらのデータパックを使ってください。
@@ -64,6 +75,9 @@ https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download
 
 https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/datapack/PixelmonReforged_JP-datapack_NoDaycare_v1.20.2.zip
 
+### Minecraft v1.21.1 & Pixelmon Reforged v9.3.0以降
+
+https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/datapack/PixelmonReforged_JP-datapack_NoDaycare_v1.21.1.zip
 
 
 ※全てが日本語化されるわけではありません。未翻訳が残ります。
