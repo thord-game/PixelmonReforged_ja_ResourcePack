@@ -1,14 +1,21 @@
-Pixelmon Reforgedを日本語化するためのリソースパックです
+Pixelmon Reforgedを日本語化するためのリソースパックとデータパックです
 
-※これまで公開していた以下をリソースパック化したものです。
+※これまで公開していた以下をリソースパック化しデータパックを加えたものです。
 
 https://github.com/thord-game/PixelmonReforged_ja_JP.lang
 
 
-以下からzipファイルをダウンロードし、ResourcePacksフォルダに配置すれば日本語化できます。
+## 日本語化リソースパック・データパック導入方法
 
-また、一部はデータパックでの日本語化が必要になるため、別途データパックも導入してください。
-（データパックはワールドごとの導入が必要です）
+以下からリソースパックのzipファイルをダウンロードし、ResourcePacksフォルダに配置・有効化すれば日本語化できます。
+
+データパックでの日本語化はワールドごとに導入が必要になり、\saves\(ワールド名)\datapacksフォルダに配置が必要です。
+
+導入方法は詳しくは以下の動画を参照ください。
+
+- v9.3向け 導入解説動画
+https://www.youtube.com/watch?v=Ncrabluqu80
+
 
 ## 日本語化リソースパック
 
@@ -29,9 +36,9 @@ https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download
 https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/v9.2.10/PixelmonReforged_ja.zip
 
 
-### Minecraft v1.21.1 & Pixelmon Reforged v9.3.6
+### Minecraft v1.21.1 & Pixelmon Reforged v9.3.7
 
-https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/v9.3.6/PixelmonReforged_ja.zip
+https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/v9.3.7/PixelmonReforged_ja.zip
 
 
 
@@ -49,7 +56,7 @@ https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download
 https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/datapack/PixelmonReforged_JP-datapack_v1.20.1.zip
 
 
-### Minecraft v1.20.2 & Pixelmon Reforged v9.2.4以降
+### Minecraft v1.20.2 & Pixelmon Reforged v9.2.10
 
 https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/datapack/PixelmonReforged_JP-datapack_v1.20.2.zip
 
@@ -71,7 +78,7 @@ https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download
 
 https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/datapack/PixelmonReforged_JP-datapack_NoDaycare_v1.20.1.zip
 
-### Minecraft v1.20.2 & Pixelmon Reforged v9.2.4以降
+### Minecraft v1.20.2 & Pixelmon Reforged v9.2.10
 
 https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/datapack/PixelmonReforged_JP-datapack_NoDaycare_v1.20.2.zip
 
