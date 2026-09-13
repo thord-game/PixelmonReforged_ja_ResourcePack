@@ -36,9 +36,9 @@ https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download
 https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/v9.2.10/PixelmonReforged_ja.zip
 
 
-### Minecraft v1.21.1 & Pixelmon Reforged v9.3.16
+### Minecraft v1.21.1 & Pixelmon Reforged v9.4.0
 
-https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/v9.3.16/PixelmonReforged_ja.zip
+https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download/v9.4.0/PixelmonReforged_ja.zip
 
 
 
@@ -95,4 +95,3 @@ https://github.com/thord-game/PixelmonReforged_ja_ResourcePack/releases/download
 謝辞：リボンを日本向けに修正するデータはつっちーさんに共有いただきました。
 
 http://tt0.link/pixelmon/
-
